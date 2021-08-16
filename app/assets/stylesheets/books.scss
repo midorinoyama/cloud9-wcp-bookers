@@ -3,7 +3,11 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 body {
-  font-size: 13px;
-  margin: 33px;
+  font-size: 14px;
+  margin: 40px;
+  line-height: 18px;
 }
 
+th,td {
+    padding: 5px;
+}
